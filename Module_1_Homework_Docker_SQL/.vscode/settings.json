@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5433,
+            "driver": "PostgreSQL",
+            "name": "nyc_taxi",
+            "database": "ny_taxi",
+            "username": "postgres"
+        }
+    ]
+}
